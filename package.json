@@ -1,29 +1,40 @@
 {
-  "dependencies": {
-    "inquirer": "^8.2.4",
-    "jest": "^29.5.0"
-  },
+  "name": "node-svg-logo-maker",
+  "version": "1.0.0",
+  "description": "[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)",
+  "main": "index.js",
   "scripts": {
     "start": "node server.js",
     "test": "jest"
   },
-  "name": "node-svg-logo-maker",
-  "description": "[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)",
-  "version": "1.0.0",
-  "main": "index.js",
-  "directories": {
-    "lib": "lib"
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^8.2.4"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "@babel/core": "^7.22.5",
+    "@babel/preset-env": "^7.22.5",
+    "babel-jest": "^29.5.0",
+    "jest": "^29.5.0"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/WHT-RBT/Node-SVG-Logo-Maker.git"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
   "bugs": {
     "url": "https://github.com/WHT-RBT/Node-SVG-Logo-Maker/issues"
   },
-  "homepage": "https://github.com/WHT-RBT/Node-SVG-Logo-Maker#readme"
+  "homepage": "https://github.com/WHT-RBT/Node-SVG-Logo-Maker#readme",
+  "babel": {
+    "presets": [
+      "@babel/preset-env"
+    ]
+  },
+  "jest": {
+    "moduleNameMapper": {
+      "\\.(jpg|jpeg|png|gif|svg)$": "<rootDir>/__mocks__/fileMock.js"
+    }
+  }
 }
