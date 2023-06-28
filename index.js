@@ -2,7 +2,7 @@ const inquirer = require("inquirer");
 
 const fs = require("fs");
 
-const { Triangle, Square, Circle } = require("./lib/shapes");
+const { Triangle, Square, Circle } = require("./shapes");
 
 // function to write SVG file using user's input
 function writeToFile(fileName, answers) {

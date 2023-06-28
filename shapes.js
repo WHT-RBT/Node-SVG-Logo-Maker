@@ -1,9 +1,7 @@
-// shape class 
 class Shape {
     constructor() {
       this.color = "";
     }
-    // setColor function
     setColor(colorVar) {
       this.color = colorVar;
     }
