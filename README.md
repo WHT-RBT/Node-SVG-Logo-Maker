@@ -59,9 +59,9 @@ This application is a Node.js command-line application that takes in user input 
 
 <br>
 
-## Test Instructions
+## Testing
 
-Test run using the command npm run test checking for a render() method.
+Below is video of the test ran using the command npm run test checking for use of a render() method.
 
 ![npm run test](lib/test.gif)
 
