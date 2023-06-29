@@ -82,7 +82,7 @@ Below is video of the test ran using the command npm run test, checking for use 
 <br>
 <br>
 
-## Live Screen Recording of Application in Use
+## Screen Recording of Application in Use
 
 ![Recorded Walk Through](lib/walkthrough.gif)
 
