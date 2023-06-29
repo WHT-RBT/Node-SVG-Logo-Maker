@@ -27,6 +27,7 @@ This application is a Node.js command-line application that takes in user input 
 ## Technologies Used
 
    -  Javascript
+   -  VS Code
    -  Node.js v16
    -  Inquirer v8.2.4
    -  Jest v29.5.0 
@@ -35,33 +36,33 @@ This application is a Node.js command-line application that takes in user input 
 
 ## Installation
 
-1. Clone the repo in the command line with:
+1. Clone the repo in the command line with: <br>
    git clone git@github.com:WHT-RBT/Node-SVG-Logo-Maker.git
 
 2. Open in VS Code using the command:  code .
 
 3. Install node.js v16
 
-4. In the terminal use command: 
+4. In the terminal use command: <br>
    npm init -y to create your package.json files
 
-5. Use the terminal to run the command: 
+5. Use the terminal to run the command: <br>
    npm i to install the dependencies 
 
-6. Use the terminal to run the command: 
+6. Use the terminal to run the command: <br>
    npm i inquirer@8.2.4 to install v8.2 4 of inquirer
 
-7. Use the terminal to run the command: 
+7. Use the terminal to run the command: <br>
    npm i jest to install the latest version of jest
 
-8. Use the terminal to run the index.js file using the command: 
+8. Use the terminal to run the index.js file using the command: <br>
    node index.js, then follow the prompts to create your logo
 
 <br>
 
 ## Testing
 
-Below is video of the test ran using the command npm run test checking for use of a render() method.
+Below is video of the test ran using the command npm run test, checking for use of a render() method.
 
 ![npm run test](lib/test.gif)
 
@@ -97,6 +98,6 @@ NOTICE: This application is covered under the MIT License
 
 Use the links below to reach me through GitHub or by email:
 
-[Github Link](https://github.com/WHT-RBT)
+[Github Link: ](https://github.com/WHT-RBT) https://github.com/WHT-RBT
 
 <a href="mailto:the.whiterabbit@yahoo.com">Email me 🐇</a>
