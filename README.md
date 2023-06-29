@@ -1,4 +1,4 @@
-# Week-10 Challenge: SVG Logo Maker
+# Module 10 Challenge: Node SVG Logo Maker
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
