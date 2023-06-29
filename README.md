@@ -26,7 +26,10 @@ This application is a Node.js command-line application that takes in user input 
 <br>
 ## Technologies Used
 
-This project is powered by Node.js v16, utilizes inquirer v8.2.4 (node package manager), and file system module (node package manager). It also employs jest v29.5.0 (node package manager) for the unit testing conducted in this application. 
+   -  Javascript
+   -  Node.js v16
+   -  Inquirer v8.2.4
+   -  Jest v29.5.0 
 
 <br>
 
