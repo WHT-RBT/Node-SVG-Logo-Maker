@@ -64,6 +64,9 @@ This application is a Node.js command-line application that takes in user input 
 
 Below is video of the test ran using the command npm run test, checking for use of a render() method.
 
+Use this link to watch video:
+https://drive.google.com/file/d/101GxwoUqhkJ1J9198bfqtzoKBBTevpto/view
+
 ![npm run test](lib/test.gif)
 
 
@@ -84,8 +87,10 @@ Below is video of the test ran using the command npm run test, checking for use 
 
 ## Screen Recording of Application in Use
 
-![Recorded Walk Through](lib/walkthrough.gif)
+Use this link to watch video:
+https://drive.google.com/file/d/1CfHwg0hVWhplEqr2YEYqITUmIltUmhjW/view
 
+![Alt text](lib/walkthrough.gif)
 <br>
 
 ## License
